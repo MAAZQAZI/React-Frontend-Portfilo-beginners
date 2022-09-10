@@ -1,3 +1,5 @@
+![Portfilo](https://user-images.githubusercontent.com/81867779/189490268-af993287-1029-4fcc-b081-690fde96f65e.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
