@@ -1,0 +1,47 @@
+.skillbackground {
+  background-color: #f9f2ed00;
+  border-radius: 5px;
+  padding: 10px;
+  margin: 10px;
+  height: 70vh;
+  display: flex;
+  justify-content: center;
+}
+.lef {
+    color: #FF5B00;
+  width: 27%;
+  display: flex;
+  flex-direction: column;
+ background-color: #fcf2be;
+  border-radius: 35px;
+  padding: 10px;
+  font-size: 20px;
+}
+.rig {
+    color: #541690;
+    width: 27%;
+    display: flex;
+    flex-direction: column;
+    background-color: #e0fcfc;
+    border-radius: 35px;
+    padding: 20px;
+    
+  font-size: 20px;
+  }
+.mid {
+    color: #CC0E74;
+    width: 27%;
+    display: flex;
+    flex-direction: column;
+    background-color: #f8c9db;
+    border-radius: 35px;
+    padding: 20px;
+    font-size: 20px;
+  }
+  @media (max-width: 1200px) {
+	
+    .skillbackground{
+     display: none;
+    
+    }
+  }

@@ -1,0 +1,11 @@
+.show{
+    display: none;
+}
+
+@media (max-width: 1200px) {
+	
+    .show{
+     display: flex;
+    
+    }
+  }

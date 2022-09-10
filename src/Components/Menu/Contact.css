@@ -1,0 +1,61 @@
+.ContainerC{
+    display: flex;
+    border-radius:10px;
+    
+     background-color : #590696;
+    height: 80vh;
+}
+.leftC{
+    width: 100%;
+    height: 80vh;
+    color: rgb(255, 248, 248);
+    font-size: 40px;
+    font-weight: bold;
+    padding-top: 10px;
+    padding-left: 10px;
+    
+}
+
+.rightC{
+    margin-top: 40px;
+    width: 100%;
+    height: 80vh;
+    color: rgb(255, 248, 248);
+}
+.headC img{
+    width: 50%;
+    height: 40%;
+   align-content: center;
+    margin-left: 20%;
+    
+}
+.bodyC input {
+    width: 60%;
+    height: 40px;
+    border-radius: 5px;
+    border: none;
+    margin-top: 10px;
+    padding: 10px;
+}
+.bodyC textarea {
+    width: 60%;
+    height: 80px;
+    border-radius: 5px;
+    border: none;
+    margin-top: 10px;
+    padding: 10px;
+}
+.btn-contact{
+    float: left;
+    background-color: #590696;
+}
+
+
+
+@media (max-width: 1200px) {
+	
+    .ContainerC{
+     display: none;
+    
+    }
+  }
